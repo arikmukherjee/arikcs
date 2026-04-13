@@ -1,22 +1,22 @@
-# Arik Mukherjee | Full Stack Web Craftmanship
+# Arik Mukherjee | Full Stack Web Craftsmanship 🚀
 
 A single-page portfolio website for Arik Mukherjee built with plain HTML, CSS, and JavaScript.
 
-## Overview
+## Overview 🌟
 
 This project is a responsive personal portfolio landing page designed to showcase skills, projects, experience, and contact details. It features a modern dark theme with an optional light mode, animated interactions, and a filterable project gallery.
 
-## Key Features
+## Key Features ✨
 
-- Responsive single-page layout with hero, about, skills, projects, experience, and contact sections
-- Dark / light theme toggle
-- Animated typing banner and scroll reveal effects
-- Filterable project cards by category
-- Client-side contact form validation
-- Mobile-friendly navigation and hamburger menu
-- Embedded CSS and vanilla JavaScript for a fast and portable site
+- ✅ Responsive single-page layout with hero, about, skills, projects, experience, and contact sections
+- 🌗 Dark / light theme toggle
+- 💬 Animated typing banner and scroll reveal effects
+- 🔎 Filterable project cards by category
+- 🛡️ Client-side contact form validation
+- 📱 Mobile-friendly navigation and hamburger menu
+- ⚡ Embedded CSS and vanilla JavaScript for a fast and portable site
 
-## Built With
+## Built With 🧰
 
 - HTML5
 - CSS3
@@ -24,7 +24,7 @@ This project is a responsive personal portfolio landing page designed to showcas
 - Google Fonts
 - Font Awesome Icons
 
-## Usage
+## Usage ▶️
 
 1. Open `index.html` in your browser.
 2. Or serve the folder with a local web server for a development preview:
